@@ -8,8 +8,8 @@ let phrases = [
   { text: 'прочитать новости и ужаснуться в комментариях', image: 'https://code.s3.yandex.net/web-code/procrastinate/7.png' },
   { text: 'попасть в поток грустных песен и вспомнить все ошибки молодости', image: 'https://code.s3.yandex.net/web-code/procrastinate/8.png' },
   { text: 'посмотреть трейлер сериала и заодно первый сезон', image: 'https://code.s3.yandex.net/web-code/procrastinate/9.png' },
-  { text: 'проверить непрочитанное в Telegram-каналах', image: 'https://code.s3.yandex.net/web-code/procrastinate/10.png' }
-  { text: 'посадить кактус, чтобы не грустить' , image: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fru%2Ffree-png-ijkdx&psig=AOvVaw1JyUyUjuJ3FmO_xSpdGI_e&ust=1666683000784000&source=images&cd=vfe&ved=0CAsQjhxqFwoTCIDn65Ws-PoCFQAAAAAdAAAAABAN'}
+  { text: 'проверить непрочитанное в Telegram-каналах', image: 'https://code.s3.yandex.net/web-code/procrastinate/10.png' },
+  { text: 'посадить кактус, чтобы не грустить' , image: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fru%2Fsearch%3Fq%3D%25D0%25BA%25D0%25B0%25D0%25BA%25D1%2582%25D1%2583%25D1%2581%25D0%25BE%25D0%25B2%25D1%258B%25D0%25B5&psig=AOvVaw3UQG_Znty2-NDkwh-oE1kC&ust=1666683552713000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCJCgxp6u-PoCFQAAAAAdAAAAABAD'},
 ];
 
 function getRandomElement(arr) {
