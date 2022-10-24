@@ -9,7 +9,6 @@ let phrases = [
   { text: 'попасть в поток грустных песен и вспомнить все ошибки молодости', image: 'https://code.s3.yandex.net/web-code/procrastinate/8.png' },
   { text: 'посмотреть трейлер сериала и заодно первый сезон', image: 'https://code.s3.yandex.net/web-code/procrastinate/9.png' },
   { text: 'проверить непрочитанное в Telegram-каналах', image: 'https://code.s3.yandex.net/web-code/procrastinate/10.png' },
-  { text: 'посадить кактус, чтобы не грустить' , image: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngmart.com%2Fru%2Fimage%2Ftag%2Fcactus&psig=AOvVaw0Fhu_I8By-3aw3ieoj9_aL&ust=1666683744413000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCMD8kfeu-PoCFQAAAAAdAAAAABAw'},
 ];
 
 function getRandomElement(arr) {
